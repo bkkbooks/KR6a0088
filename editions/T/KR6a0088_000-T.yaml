@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6a0088/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 優陂夷墮舍迦經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T01/T01n0088.xml
+    old_id: T01n0088
+hash: sha256:87796f5320f06ab09b725e72b54a903b1df3c14361868ff8584684a0d22a1839

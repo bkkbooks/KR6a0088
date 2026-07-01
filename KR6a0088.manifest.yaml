@@ -1,0 +1,54 @@
+canonical_identifier: bkk:krp/KR6a0088/v1
+canonical_location: https://kanripo.org/bkk/KR6a0088/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 優陂夷墮舍迦經
+  identifiers:
+    alt_id:
+    - T01n0088
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T01/T01n0088.xml
+    old_id: T01n0088
+  edition:
+    short: bkk
+editions:
+- short: 宋
+  label: 宋
+  source_xml_id: wit2
+- short: 元
+  label: 元
+  source_xml_id: wit3
+- short: 明
+  label: 明
+  source_xml_id: wit1
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: 麗-CB
+  label: 麗-CB
+  source_xml_id: wit4
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6a0088_000.yaml, hash: 'sha256:87796f5320f06ab09b725e72b54a903b1df3c14361868ff8584684a0d22a1839'}
+  - {seq: 1, filename: KR6a0088_001.yaml, hash: 'sha256:ec049a6a900ed5c88d80b9d8da46f58da013c7073a1d383d9b48b640477557c8'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6a0088_001.markers.yaml, hash: 'sha256:f3db47a91cd0727c0f7201e33497e99233a94318c8f5110dd7af34f48eae0ac5'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6a0088_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 1288
+  label: 優陂夷墮舍迦經
+  type: juan
+  level: 1
+hash: sha256:be10fc29a5644154d94434485ff490a3ef8e79ded251d95c33917ffc82597d2d
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
