@@ -34,9 +34,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6a0088_000.yaml, hash: 'sha256:87796f5320f06ab09b725e72b54a903b1df3c14361868ff8584684a0d22a1839'}
-  - {seq: 1, filename: KR6a0088_001.yaml, hash: 'sha256:ec049a6a900ed5c88d80b9d8da46f58da013c7073a1d383d9b48b640477557c8'}
+  - {seq: 1, filename: KR6a0088_001.yaml, hash: 'sha256:25165c6b6c6bb99a5694fd4ca5ea5d516fa2d5c4990dd78166fd2e04d87e3674'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6a0088_001.markers.yaml, hash: 'sha256:f3db47a91cd0727c0f7201e33497e99233a94318c8f5110dd7af34f48eae0ac5'}
+  - {seq: 0, role: markers, filename: assets/KR6a0088_000.markers.yaml, hash: 'sha256:c9f2b29e5776f700b3f823207836768386761943ad8ce942e5b65c5456dc2295'}
+  - {seq: 1, role: markers, filename: assets/KR6a0088_001.markers.yaml, hash: 'sha256:b718bc068a75cfa155f90eccb1c0176c9f26272b681779b097ffdee0a67f782e'}
 table_of_contents:
 - ref:
     seq: 1
@@ -48,7 +49,4 @@ table_of_contents:
   label: 優陂夷墮舍迦經
   type: juan
   level: 1
-hash: sha256:be10fc29a5644154d94434485ff490a3ef8e79ded251d95c33917ffc82597d2d
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:563d766c90c7ccfd2a6546b2a8f784f15c86489551c9aebc390d7d815cee8628
