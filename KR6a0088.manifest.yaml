@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6a0088/v1
 canonical_location: https://kanripo.org/bkk/KR6a0088/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 優陂夷墮舍迦經
   identifiers:
@@ -34,10 +34,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6a0088_000.yaml, hash: 'sha256:87796f5320f06ab09b725e72b54a903b1df3c14361868ff8584684a0d22a1839'}
-  - {seq: 1, filename: KR6a0088_001.yaml, hash: 'sha256:25165c6b6c6bb99a5694fd4ca5ea5d516fa2d5c4990dd78166fd2e04d87e3674'}
+  - {seq: 1, filename: KR6a0088_001.yaml, hash: 'sha256:13aa0cb47b953e40c3df52539d2e26434836a6a1d42b0a4ad86b78b6c62eadc1'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6a0088_000.markers.yaml, hash: 'sha256:c9f2b29e5776f700b3f823207836768386761943ad8ce942e5b65c5456dc2295'}
-  - {seq: 1, role: markers, filename: assets/KR6a0088_001.markers.yaml, hash: 'sha256:b718bc068a75cfa155f90eccb1c0176c9f26272b681779b097ffdee0a67f782e'}
+  - {seq: 1, role: markers, filename: assets/KR6a0088_001.markers.yaml, hash: 'sha256:7e8fc8e6c7e30b457e4ae1f7e4bff370123006c0c7c9ebbc775783f838ff174a'}
 table_of_contents:
 - ref:
     seq: 1
@@ -49,4 +49,7 @@ table_of_contents:
   label: 優陂夷墮舍迦經
   type: juan
   level: 1
-hash: sha256:563d766c90c7ccfd2a6546b2a8f784f15c86489551c9aebc390d7d815cee8628
+hash: sha256:8c1fc7ce98b933b3da28f5e6b072e3c8238f28657e340676dca618ee2237987f
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
