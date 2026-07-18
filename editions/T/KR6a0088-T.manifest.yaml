@@ -22,7 +22,7 @@ assets:
   - {seq: 0, filename: KR6a0088_000-T.yaml, hash: 'sha256:87796f5320f06ab09b725e72b54a903b1df3c14361868ff8584684a0d22a1839'}
   - {seq: 1, filename: KR6a0088_001-T.yaml, hash: 'sha256:25165c6b6c6bb99a5694fd4ca5ea5d516fa2d5c4990dd78166fd2e04d87e3674'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6a0088_000-T.markers.yaml, hash: 'sha256:fca888c227e99dbce51d88ec0b3a7defe083a48e321797a77ea5ac1542dc2c9d'}
+  - {seq: 0, role: markers, filename: assets/KR6a0088_000-T.markers.yaml, hash: 'sha256:b0a4e7dbdf6d054be3214839475cfe7bae613bafc347f373cd8f7f3e79dffd08'}
   - {seq: 1, role: markers, filename: assets/KR6a0088_001-T.markers.yaml, hash: 'sha256:9a05dad8ca7c25edf200ed52be84fb7204dc30b626ddcd86e6001649efda6148'}
 table_of_contents:
 - ref:
@@ -35,4 +35,4 @@ table_of_contents:
   label: 優陂夷墮舍迦經
   type: juan
   level: 1
-hash: sha256:27cb78bef8141bb3c4752047e08816ffd009c597a26c57e9dfa9b524f6128976
+hash: sha256:a8fa604512e285e43279dfce9ab81e8e4e8e2652cac851f421570b0cbecc18f2
